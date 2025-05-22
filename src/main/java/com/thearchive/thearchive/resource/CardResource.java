@@ -13,4 +13,11 @@ public class CardResource {
     private String notes;
     private String tags;
     private SetResource set;
+    private String imageUrl;
+    private String rarity;
+    private String manaCost;
+    private String power;
+    private String toughness;
+    // private String loyalty;
+    
 }
