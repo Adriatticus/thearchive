@@ -13,4 +13,5 @@ public class CardResource {
     private String notes;
     private String tags;
     private SetResource set;
+    private String imageUrl;
 }
