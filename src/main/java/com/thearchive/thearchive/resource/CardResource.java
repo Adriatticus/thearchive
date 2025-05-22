@@ -18,6 +18,7 @@ public class CardResource {
     private String manaCost;
     private String power;
     private String toughness;
+    private String artist;
     // private String loyalty;
     
 }
